@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@200..800&display=swap');
+
+h1, h2, h3, label, input, button{
+    font-family: "Oxanium", sans-serif;
+    font-optical-sizing: auto;
+}
